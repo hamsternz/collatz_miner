@@ -12,7 +12,7 @@ Take any number
 * If it is odd then multiply by three and add one
 * Repeat these two steps on the current result.
   
-The conjecture is that if you repeat this over and over, ALL numbers will end up becoming one. 
+The conjecture is that if you repeat this over and over, ALL numbers will be reduced to 1, and then cycle 1, 4, 2 over and over. 
 
 Apparently it is known to about 2x10^20 that this is true, but it has not been proven for all numbers
 
